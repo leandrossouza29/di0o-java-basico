@@ -1,5 +1,8 @@
 public class main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+
+double n1 = 10.5;
+
+        System.out.println(n1);
     }    
 }

@@ -1,2 +1,2 @@
-# di0o-java-basico
+# dio-java-basico
 aprendendo a usar git com o vs code.
